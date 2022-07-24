@@ -1,1 +1,2 @@
-# PhotoshopInst
+# PhotoshopInstaller
+Password under video
